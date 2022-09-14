@@ -6,9 +6,10 @@ Teaching takes place according to the regular [school curriculum](http://www.bil
 - [ ] Define Project topics
 - [ ] Define Scope
 ## Used programming languages
-- Assembler (x86/64 & RISC-V)
+- Assembler (x86/64 & RISC)
 - C
 - C++
+- C# 
 
 ## Credit
 All code was written by Moritz Missel and can be used for educational purposes. For commercial use a confirmation from Moritz Missel is required
@@ -17,3 +18,5 @@ All code was written by Moritz Missel and can be used for educational purposes. 
 [Linkedin](https://www.linkedin.com/in/moritz-missel/) 
 
 [mastodon.social](https://mastodon.social/web/@axtinator)
+
+[twitter](https://twitter.com/Axtinator3)

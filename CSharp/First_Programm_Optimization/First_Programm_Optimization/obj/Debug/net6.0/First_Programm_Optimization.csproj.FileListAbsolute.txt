@@ -1,0 +1,15 @@
+C:\Users\Xerox\source\repos\M-Missel\School_11th_grade\CSharp\First_Programm_Optimization\First_Programm_Optimization\bin\Debug\net6.0\First_Programm_Optimization.exe
+C:\Users\Xerox\source\repos\M-Missel\School_11th_grade\CSharp\First_Programm_Optimization\First_Programm_Optimization\bin\Debug\net6.0\First_Programm_Optimization.deps.json
+C:\Users\Xerox\source\repos\M-Missel\School_11th_grade\CSharp\First_Programm_Optimization\First_Programm_Optimization\bin\Debug\net6.0\First_Programm_Optimization.runtimeconfig.json
+C:\Users\Xerox\source\repos\M-Missel\School_11th_grade\CSharp\First_Programm_Optimization\First_Programm_Optimization\bin\Debug\net6.0\First_Programm_Optimization.dll
+C:\Users\Xerox\source\repos\M-Missel\School_11th_grade\CSharp\First_Programm_Optimization\First_Programm_Optimization\bin\Debug\net6.0\First_Programm_Optimization.pdb
+C:\Users\Xerox\source\repos\M-Missel\School_11th_grade\CSharp\First_Programm_Optimization\First_Programm_Optimization\obj\Debug\net6.0\First_Programm_Optimization.csproj.AssemblyReference.cache
+C:\Users\Xerox\source\repos\M-Missel\School_11th_grade\CSharp\First_Programm_Optimization\First_Programm_Optimization\obj\Debug\net6.0\First_Programm_Optimization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xerox\source\repos\M-Missel\School_11th_grade\CSharp\First_Programm_Optimization\First_Programm_Optimization\obj\Debug\net6.0\First_Programm_Optimization.AssemblyInfoInputs.cache
+C:\Users\Xerox\source\repos\M-Missel\School_11th_grade\CSharp\First_Programm_Optimization\First_Programm_Optimization\obj\Debug\net6.0\First_Programm_Optimization.AssemblyInfo.cs
+C:\Users\Xerox\source\repos\M-Missel\School_11th_grade\CSharp\First_Programm_Optimization\First_Programm_Optimization\obj\Debug\net6.0\First_Programm_Optimization.csproj.CoreCompileInputs.cache
+C:\Users\Xerox\source\repos\M-Missel\School_11th_grade\CSharp\First_Programm_Optimization\First_Programm_Optimization\obj\Debug\net6.0\First_Programm_Optimization.dll
+C:\Users\Xerox\source\repos\M-Missel\School_11th_grade\CSharp\First_Programm_Optimization\First_Programm_Optimization\obj\Debug\net6.0\refint\First_Programm_Optimization.dll
+C:\Users\Xerox\source\repos\M-Missel\School_11th_grade\CSharp\First_Programm_Optimization\First_Programm_Optimization\obj\Debug\net6.0\First_Programm_Optimization.pdb
+C:\Users\Xerox\source\repos\M-Missel\School_11th_grade\CSharp\First_Programm_Optimization\First_Programm_Optimization\obj\Debug\net6.0\First_Programm_Optimization.genruntimeconfig.cache
+C:\Users\Xerox\source\repos\M-Missel\School_11th_grade\CSharp\First_Programm_Optimization\First_Programm_Optimization\obj\Debug\net6.0\ref\First_Programm_Optimization.dll
