@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Flaeche_Rechteck/1.0.0": {
+        "runtime": {
+          "Flaeche_Rechteck.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Flaeche_Rechteck/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

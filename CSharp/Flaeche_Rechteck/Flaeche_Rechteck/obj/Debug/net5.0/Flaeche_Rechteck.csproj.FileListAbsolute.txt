@@ -1,0 +1,16 @@
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Flaeche_Rechteck\Flaeche_Rechteck\bin\Debug\net5.0\Flaeche_Rechteck.exe
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Flaeche_Rechteck\Flaeche_Rechteck\bin\Debug\net5.0\Flaeche_Rechteck.deps.json
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Flaeche_Rechteck\Flaeche_Rechteck\bin\Debug\net5.0\Flaeche_Rechteck.runtimeconfig.json
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Flaeche_Rechteck\Flaeche_Rechteck\bin\Debug\net5.0\Flaeche_Rechteck.runtimeconfig.dev.json
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Flaeche_Rechteck\Flaeche_Rechteck\bin\Debug\net5.0\Flaeche_Rechteck.dll
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Flaeche_Rechteck\Flaeche_Rechteck\bin\Debug\net5.0\Flaeche_Rechteck.pdb
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Flaeche_Rechteck\Flaeche_Rechteck\obj\Debug\net5.0\Flaeche_Rechteck.csproj.AssemblyReference.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Flaeche_Rechteck\Flaeche_Rechteck\obj\Debug\net5.0\Flaeche_Rechteck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Flaeche_Rechteck\Flaeche_Rechteck\obj\Debug\net5.0\Flaeche_Rechteck.AssemblyInfoInputs.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Flaeche_Rechteck\Flaeche_Rechteck\obj\Debug\net5.0\Flaeche_Rechteck.AssemblyInfo.cs
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Flaeche_Rechteck\Flaeche_Rechteck\obj\Debug\net5.0\Flaeche_Rechteck.csproj.CoreCompileInputs.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Flaeche_Rechteck\Flaeche_Rechteck\obj\Debug\net5.0\Flaeche_Rechteck.dll
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Flaeche_Rechteck\Flaeche_Rechteck\obj\Debug\net5.0\refint\Flaeche_Rechteck.dll
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Flaeche_Rechteck\Flaeche_Rechteck\obj\Debug\net5.0\Flaeche_Rechteck.pdb
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Flaeche_Rechteck\Flaeche_Rechteck\obj\Debug\net5.0\Flaeche_Rechteck.genruntimeconfig.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Flaeche_Rechteck\Flaeche_Rechteck\obj\Debug\net5.0\ref\Flaeche_Rechteck.dll

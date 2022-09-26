@@ -1,0 +1,15 @@
+C:\Users\Xerox\source\repos\M-Missel\School_11th_grade\CSharp\Flaeche_Dreieck\Flaeche_Dreieck\bin\Debug\net6.0\Flaeche_Dreieck.exe
+C:\Users\Xerox\source\repos\M-Missel\School_11th_grade\CSharp\Flaeche_Dreieck\Flaeche_Dreieck\bin\Debug\net6.0\Flaeche_Dreieck.deps.json
+C:\Users\Xerox\source\repos\M-Missel\School_11th_grade\CSharp\Flaeche_Dreieck\Flaeche_Dreieck\bin\Debug\net6.0\Flaeche_Dreieck.runtimeconfig.json
+C:\Users\Xerox\source\repos\M-Missel\School_11th_grade\CSharp\Flaeche_Dreieck\Flaeche_Dreieck\bin\Debug\net6.0\Flaeche_Dreieck.dll
+C:\Users\Xerox\source\repos\M-Missel\School_11th_grade\CSharp\Flaeche_Dreieck\Flaeche_Dreieck\bin\Debug\net6.0\Flaeche_Dreieck.pdb
+C:\Users\Xerox\source\repos\M-Missel\School_11th_grade\CSharp\Flaeche_Dreieck\Flaeche_Dreieck\obj\Debug\net6.0\Flaeche_Dreieck.csproj.AssemblyReference.cache
+C:\Users\Xerox\source\repos\M-Missel\School_11th_grade\CSharp\Flaeche_Dreieck\Flaeche_Dreieck\obj\Debug\net6.0\Flaeche_Dreieck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xerox\source\repos\M-Missel\School_11th_grade\CSharp\Flaeche_Dreieck\Flaeche_Dreieck\obj\Debug\net6.0\Flaeche_Dreieck.AssemblyInfoInputs.cache
+C:\Users\Xerox\source\repos\M-Missel\School_11th_grade\CSharp\Flaeche_Dreieck\Flaeche_Dreieck\obj\Debug\net6.0\Flaeche_Dreieck.AssemblyInfo.cs
+C:\Users\Xerox\source\repos\M-Missel\School_11th_grade\CSharp\Flaeche_Dreieck\Flaeche_Dreieck\obj\Debug\net6.0\Flaeche_Dreieck.csproj.CoreCompileInputs.cache
+C:\Users\Xerox\source\repos\M-Missel\School_11th_grade\CSharp\Flaeche_Dreieck\Flaeche_Dreieck\obj\Debug\net6.0\Flaeche_Dreieck.dll
+C:\Users\Xerox\source\repos\M-Missel\School_11th_grade\CSharp\Flaeche_Dreieck\Flaeche_Dreieck\obj\Debug\net6.0\refint\Flaeche_Dreieck.dll
+C:\Users\Xerox\source\repos\M-Missel\School_11th_grade\CSharp\Flaeche_Dreieck\Flaeche_Dreieck\obj\Debug\net6.0\Flaeche_Dreieck.pdb
+C:\Users\Xerox\source\repos\M-Missel\School_11th_grade\CSharp\Flaeche_Dreieck\Flaeche_Dreieck\obj\Debug\net6.0\Flaeche_Dreieck.genruntimeconfig.cache
+C:\Users\Xerox\source\repos\M-Missel\School_11th_grade\CSharp\Flaeche_Dreieck\Flaeche_Dreieck\obj\Debug\net6.0\ref\Flaeche_Dreieck.dll
