@@ -1,0 +1,16 @@
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Calc_Quotient\Calc_Quotient\bin\Debug\net5.0\Calc_Quotient.exe
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Calc_Quotient\Calc_Quotient\bin\Debug\net5.0\Calc_Quotient.deps.json
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Calc_Quotient\Calc_Quotient\bin\Debug\net5.0\Calc_Quotient.runtimeconfig.json
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Calc_Quotient\Calc_Quotient\bin\Debug\net5.0\Calc_Quotient.runtimeconfig.dev.json
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Calc_Quotient\Calc_Quotient\bin\Debug\net5.0\Calc_Quotient.dll
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Calc_Quotient\Calc_Quotient\bin\Debug\net5.0\Calc_Quotient.pdb
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Calc_Quotient\Calc_Quotient\obj\Debug\net5.0\Calc_Quotient.csproj.AssemblyReference.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Calc_Quotient\Calc_Quotient\obj\Debug\net5.0\Calc_Quotient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Calc_Quotient\Calc_Quotient\obj\Debug\net5.0\Calc_Quotient.AssemblyInfoInputs.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Calc_Quotient\Calc_Quotient\obj\Debug\net5.0\Calc_Quotient.AssemblyInfo.cs
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Calc_Quotient\Calc_Quotient\obj\Debug\net5.0\Calc_Quotient.csproj.CoreCompileInputs.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Calc_Quotient\Calc_Quotient\obj\Debug\net5.0\Calc_Quotient.dll
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Calc_Quotient\Calc_Quotient\obj\Debug\net5.0\refint\Calc_Quotient.dll
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Calc_Quotient\Calc_Quotient\obj\Debug\net5.0\Calc_Quotient.pdb
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Calc_Quotient\Calc_Quotient\obj\Debug\net5.0\Calc_Quotient.genruntimeconfig.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Calc_Quotient\Calc_Quotient\obj\Debug\net5.0\ref\Calc_Quotient.dll

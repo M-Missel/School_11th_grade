@@ -1,0 +1,16 @@
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Calculate_discriminant\Calculate_discriminant\bin\Debug\net5.0\Calculate_discriminant.exe
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Calculate_discriminant\Calculate_discriminant\bin\Debug\net5.0\Calculate_discriminant.deps.json
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Calculate_discriminant\Calculate_discriminant\bin\Debug\net5.0\Calculate_discriminant.runtimeconfig.json
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Calculate_discriminant\Calculate_discriminant\bin\Debug\net5.0\Calculate_discriminant.runtimeconfig.dev.json
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Calculate_discriminant\Calculate_discriminant\bin\Debug\net5.0\Calculate_discriminant.dll
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Calculate_discriminant\Calculate_discriminant\bin\Debug\net5.0\Calculate_discriminant.pdb
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Calculate_discriminant\Calculate_discriminant\obj\Debug\net5.0\Calculate_discriminant.csproj.AssemblyReference.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Calculate_discriminant\Calculate_discriminant\obj\Debug\net5.0\Calculate_discriminant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Calculate_discriminant\Calculate_discriminant\obj\Debug\net5.0\Calculate_discriminant.AssemblyInfoInputs.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Calculate_discriminant\Calculate_discriminant\obj\Debug\net5.0\Calculate_discriminant.AssemblyInfo.cs
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Calculate_discriminant\Calculate_discriminant\obj\Debug\net5.0\Calculate_discriminant.csproj.CoreCompileInputs.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Calculate_discriminant\Calculate_discriminant\obj\Debug\net5.0\Calculate_discriminant.dll
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Calculate_discriminant\Calculate_discriminant\obj\Debug\net5.0\refint\Calculate_discriminant.dll
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Calculate_discriminant\Calculate_discriminant\obj\Debug\net5.0\Calculate_discriminant.pdb
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Calculate_discriminant\Calculate_discriminant\obj\Debug\net5.0\Calculate_discriminant.genruntimeconfig.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Calculate_discriminant\Calculate_discriminant\obj\Debug\net5.0\ref\Calculate_discriminant.dll

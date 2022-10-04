@@ -1,0 +1,16 @@
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Check_lega_age\Check_lega_age\bin\Debug\net5.0\Check_lega_age.exe
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Check_lega_age\Check_lega_age\bin\Debug\net5.0\Check_lega_age.deps.json
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Check_lega_age\Check_lega_age\bin\Debug\net5.0\Check_lega_age.runtimeconfig.json
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Check_lega_age\Check_lega_age\bin\Debug\net5.0\Check_lega_age.runtimeconfig.dev.json
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Check_lega_age\Check_lega_age\bin\Debug\net5.0\Check_lega_age.dll
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Check_lega_age\Check_lega_age\bin\Debug\net5.0\Check_lega_age.pdb
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Check_lega_age\Check_lega_age\obj\Debug\net5.0\Check_lega_age.csproj.AssemblyReference.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Check_lega_age\Check_lega_age\obj\Debug\net5.0\Check_lega_age.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Check_lega_age\Check_lega_age\obj\Debug\net5.0\Check_lega_age.AssemblyInfoInputs.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Check_lega_age\Check_lega_age\obj\Debug\net5.0\Check_lega_age.AssemblyInfo.cs
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Check_lega_age\Check_lega_age\obj\Debug\net5.0\Check_lega_age.csproj.CoreCompileInputs.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Check_lega_age\Check_lega_age\obj\Debug\net5.0\Check_lega_age.dll
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Check_lega_age\Check_lega_age\obj\Debug\net5.0\refint\Check_lega_age.dll
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Check_lega_age\Check_lega_age\obj\Debug\net5.0\Check_lega_age.pdb
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Check_lega_age\Check_lega_age\obj\Debug\net5.0\Check_lega_age.genruntimeconfig.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Check_lega_age\Check_lega_age\obj\Debug\net5.0\ref\Check_lega_age.dll

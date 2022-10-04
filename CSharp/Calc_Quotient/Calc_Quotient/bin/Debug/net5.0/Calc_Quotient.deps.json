@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Calc_Quotient/1.0.0": {
+        "runtime": {
+          "Calc_Quotient.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calc_Quotient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
