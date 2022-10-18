@@ -1,0 +1,16 @@
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Number_To_Month\Number_To_Month\bin\Debug\net5.0\Number_To_Month.exe
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Number_To_Month\Number_To_Month\bin\Debug\net5.0\Number_To_Month.deps.json
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Number_To_Month\Number_To_Month\bin\Debug\net5.0\Number_To_Month.runtimeconfig.json
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Number_To_Month\Number_To_Month\bin\Debug\net5.0\Number_To_Month.runtimeconfig.dev.json
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Number_To_Month\Number_To_Month\bin\Debug\net5.0\Number_To_Month.dll
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Number_To_Month\Number_To_Month\bin\Debug\net5.0\Number_To_Month.pdb
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Number_To_Month\Number_To_Month\obj\Debug\net5.0\Number_To_Month.csproj.AssemblyReference.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Number_To_Month\Number_To_Month\obj\Debug\net5.0\Number_To_Month.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Number_To_Month\Number_To_Month\obj\Debug\net5.0\Number_To_Month.AssemblyInfoInputs.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Number_To_Month\Number_To_Month\obj\Debug\net5.0\Number_To_Month.AssemblyInfo.cs
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Number_To_Month\Number_To_Month\obj\Debug\net5.0\Number_To_Month.csproj.CoreCompileInputs.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Number_To_Month\Number_To_Month\obj\Debug\net5.0\Number_To_Month.dll
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Number_To_Month\Number_To_Month\obj\Debug\net5.0\refint\Number_To_Month.dll
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Number_To_Month\Number_To_Month\obj\Debug\net5.0\Number_To_Month.pdb
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Number_To_Month\Number_To_Month\obj\Debug\net5.0\Number_To_Month.genruntimeconfig.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Number_To_Month\Number_To_Month\obj\Debug\net5.0\ref\Number_To_Month.dll

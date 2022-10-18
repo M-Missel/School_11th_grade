@@ -1,0 +1,16 @@
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Switch_Grades\Switch_Grades\bin\Debug\net5.0\Switch_Grades.exe
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Switch_Grades\Switch_Grades\bin\Debug\net5.0\Switch_Grades.deps.json
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Switch_Grades\Switch_Grades\bin\Debug\net5.0\Switch_Grades.runtimeconfig.json
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Switch_Grades\Switch_Grades\bin\Debug\net5.0\Switch_Grades.runtimeconfig.dev.json
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Switch_Grades\Switch_Grades\bin\Debug\net5.0\Switch_Grades.dll
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Switch_Grades\Switch_Grades\bin\Debug\net5.0\Switch_Grades.pdb
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Switch_Grades\Switch_Grades\obj\Debug\net5.0\Switch_Grades.csproj.AssemblyReference.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Switch_Grades\Switch_Grades\obj\Debug\net5.0\Switch_Grades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Switch_Grades\Switch_Grades\obj\Debug\net5.0\Switch_Grades.AssemblyInfoInputs.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Switch_Grades\Switch_Grades\obj\Debug\net5.0\Switch_Grades.AssemblyInfo.cs
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Switch_Grades\Switch_Grades\obj\Debug\net5.0\Switch_Grades.csproj.CoreCompileInputs.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Switch_Grades\Switch_Grades\obj\Debug\net5.0\Switch_Grades.dll
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Switch_Grades\Switch_Grades\obj\Debug\net5.0\refint\Switch_Grades.dll
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Switch_Grades\Switch_Grades\obj\Debug\net5.0\Switch_Grades.pdb
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Switch_Grades\Switch_Grades\obj\Debug\net5.0\Switch_Grades.genruntimeconfig.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Switch_Grades\Switch_Grades\obj\Debug\net5.0\ref\Switch_Grades.dll

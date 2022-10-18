@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Switch_Grades/1.0.0": {
+        "runtime": {
+          "Switch_Grades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Switch_Grades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
