@@ -1,0 +1,16 @@
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Bank_Calc_Capital\Bank_Calc_Capital\bin\Debug\net5.0\Bank_Calc_Capital.exe
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Bank_Calc_Capital\Bank_Calc_Capital\bin\Debug\net5.0\Bank_Calc_Capital.deps.json
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Bank_Calc_Capital\Bank_Calc_Capital\bin\Debug\net5.0\Bank_Calc_Capital.runtimeconfig.json
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Bank_Calc_Capital\Bank_Calc_Capital\bin\Debug\net5.0\Bank_Calc_Capital.runtimeconfig.dev.json
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Bank_Calc_Capital\Bank_Calc_Capital\bin\Debug\net5.0\Bank_Calc_Capital.dll
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Bank_Calc_Capital\Bank_Calc_Capital\bin\Debug\net5.0\Bank_Calc_Capital.pdb
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Bank_Calc_Capital\Bank_Calc_Capital\obj\Debug\net5.0\Bank_Calc_Capital.csproj.AssemblyReference.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Bank_Calc_Capital\Bank_Calc_Capital\obj\Debug\net5.0\Bank_Calc_Capital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Bank_Calc_Capital\Bank_Calc_Capital\obj\Debug\net5.0\Bank_Calc_Capital.AssemblyInfoInputs.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Bank_Calc_Capital\Bank_Calc_Capital\obj\Debug\net5.0\Bank_Calc_Capital.AssemblyInfo.cs
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Bank_Calc_Capital\Bank_Calc_Capital\obj\Debug\net5.0\Bank_Calc_Capital.csproj.CoreCompileInputs.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Bank_Calc_Capital\Bank_Calc_Capital\obj\Debug\net5.0\Bank_Calc_Capital.dll
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Bank_Calc_Capital\Bank_Calc_Capital\obj\Debug\net5.0\refint\Bank_Calc_Capital.dll
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Bank_Calc_Capital\Bank_Calc_Capital\obj\Debug\net5.0\Bank_Calc_Capital.pdb
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Bank_Calc_Capital\Bank_Calc_Capital\obj\Debug\net5.0\Bank_Calc_Capital.genruntimeconfig.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Bank_Calc_Capital\Bank_Calc_Capital\obj\Debug\net5.0\ref\Bank_Calc_Capital.dll
