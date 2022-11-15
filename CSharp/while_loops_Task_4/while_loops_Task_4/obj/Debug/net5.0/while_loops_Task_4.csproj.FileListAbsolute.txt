@@ -1,0 +1,16 @@
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\while_loops_Task_4\while_loops_Task_4\bin\Debug\net5.0\while_loops_Task_4.exe
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\while_loops_Task_4\while_loops_Task_4\bin\Debug\net5.0\while_loops_Task_4.deps.json
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\while_loops_Task_4\while_loops_Task_4\bin\Debug\net5.0\while_loops_Task_4.runtimeconfig.json
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\while_loops_Task_4\while_loops_Task_4\bin\Debug\net5.0\while_loops_Task_4.runtimeconfig.dev.json
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\while_loops_Task_4\while_loops_Task_4\bin\Debug\net5.0\while_loops_Task_4.dll
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\while_loops_Task_4\while_loops_Task_4\bin\Debug\net5.0\while_loops_Task_4.pdb
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\while_loops_Task_4\while_loops_Task_4\obj\Debug\net5.0\while_loops_Task_4.csproj.AssemblyReference.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\while_loops_Task_4\while_loops_Task_4\obj\Debug\net5.0\while_loops_Task_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\while_loops_Task_4\while_loops_Task_4\obj\Debug\net5.0\while_loops_Task_4.AssemblyInfoInputs.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\while_loops_Task_4\while_loops_Task_4\obj\Debug\net5.0\while_loops_Task_4.AssemblyInfo.cs
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\while_loops_Task_4\while_loops_Task_4\obj\Debug\net5.0\while_loops_Task_4.csproj.CoreCompileInputs.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\while_loops_Task_4\while_loops_Task_4\obj\Debug\net5.0\while_loops_Task_4.dll
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\while_loops_Task_4\while_loops_Task_4\obj\Debug\net5.0\refint\while_loops_Task_4.dll
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\while_loops_Task_4\while_loops_Task_4\obj\Debug\net5.0\while_loops_Task_4.pdb
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\while_loops_Task_4\while_loops_Task_4\obj\Debug\net5.0\while_loops_Task_4.genruntimeconfig.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\while_loops_Task_4\while_loops_Task_4\obj\Debug\net5.0\ref\while_loops_Task_4.dll
