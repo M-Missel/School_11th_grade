@@ -1,0 +1,16 @@
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Fakultaet_Calc\Fakultaet_Calc\bin\Debug\net5.0\Fakultaet_Calc.exe
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Fakultaet_Calc\Fakultaet_Calc\bin\Debug\net5.0\Fakultaet_Calc.deps.json
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Fakultaet_Calc\Fakultaet_Calc\bin\Debug\net5.0\Fakultaet_Calc.runtimeconfig.json
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Fakultaet_Calc\Fakultaet_Calc\bin\Debug\net5.0\Fakultaet_Calc.runtimeconfig.dev.json
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Fakultaet_Calc\Fakultaet_Calc\bin\Debug\net5.0\Fakultaet_Calc.dll
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Fakultaet_Calc\Fakultaet_Calc\bin\Debug\net5.0\Fakultaet_Calc.pdb
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Fakultaet_Calc\Fakultaet_Calc\obj\Debug\net5.0\Fakultaet_Calc.csproj.AssemblyReference.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Fakultaet_Calc\Fakultaet_Calc\obj\Debug\net5.0\Fakultaet_Calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Fakultaet_Calc\Fakultaet_Calc\obj\Debug\net5.0\Fakultaet_Calc.AssemblyInfoInputs.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Fakultaet_Calc\Fakultaet_Calc\obj\Debug\net5.0\Fakultaet_Calc.AssemblyInfo.cs
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Fakultaet_Calc\Fakultaet_Calc\obj\Debug\net5.0\Fakultaet_Calc.csproj.CoreCompileInputs.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Fakultaet_Calc\Fakultaet_Calc\obj\Debug\net5.0\Fakultaet_Calc.dll
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Fakultaet_Calc\Fakultaet_Calc\obj\Debug\net5.0\refint\Fakultaet_Calc.dll
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Fakultaet_Calc\Fakultaet_Calc\obj\Debug\net5.0\Fakultaet_Calc.pdb
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Fakultaet_Calc\Fakultaet_Calc\obj\Debug\net5.0\Fakultaet_Calc.genruntimeconfig.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Fakultaet_Calc\Fakultaet_Calc\obj\Debug\net5.0\ref\Fakultaet_Calc.dll

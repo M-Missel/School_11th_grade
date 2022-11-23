@@ -1,0 +1,16 @@
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Geldwechselproblem\Geldwechselproblem\bin\Debug\net5.0\Geldwechselproblem.exe
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Geldwechselproblem\Geldwechselproblem\bin\Debug\net5.0\Geldwechselproblem.deps.json
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Geldwechselproblem\Geldwechselproblem\bin\Debug\net5.0\Geldwechselproblem.runtimeconfig.json
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Geldwechselproblem\Geldwechselproblem\bin\Debug\net5.0\Geldwechselproblem.runtimeconfig.dev.json
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Geldwechselproblem\Geldwechselproblem\bin\Debug\net5.0\Geldwechselproblem.dll
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Geldwechselproblem\Geldwechselproblem\bin\Debug\net5.0\Geldwechselproblem.pdb
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Geldwechselproblem\Geldwechselproblem\obj\Debug\net5.0\Geldwechselproblem.csproj.AssemblyReference.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Geldwechselproblem\Geldwechselproblem\obj\Debug\net5.0\Geldwechselproblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Geldwechselproblem\Geldwechselproblem\obj\Debug\net5.0\Geldwechselproblem.AssemblyInfoInputs.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Geldwechselproblem\Geldwechselproblem\obj\Debug\net5.0\Geldwechselproblem.AssemblyInfo.cs
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Geldwechselproblem\Geldwechselproblem\obj\Debug\net5.0\Geldwechselproblem.csproj.CoreCompileInputs.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Geldwechselproblem\Geldwechselproblem\obj\Debug\net5.0\Geldwechselproblem.dll
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Geldwechselproblem\Geldwechselproblem\obj\Debug\net5.0\refint\Geldwechselproblem.dll
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Geldwechselproblem\Geldwechselproblem\obj\Debug\net5.0\Geldwechselproblem.pdb
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Geldwechselproblem\Geldwechselproblem\obj\Debug\net5.0\Geldwechselproblem.genruntimeconfig.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Geldwechselproblem\Geldwechselproblem\obj\Debug\net5.0\ref\Geldwechselproblem.dll
