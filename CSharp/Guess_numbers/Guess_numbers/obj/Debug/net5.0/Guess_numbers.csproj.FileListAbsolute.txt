@@ -1,0 +1,16 @@
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Guess_numbers\Guess_numbers\bin\Debug\net5.0\Guess_numbers.exe
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Guess_numbers\Guess_numbers\bin\Debug\net5.0\Guess_numbers.deps.json
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Guess_numbers\Guess_numbers\bin\Debug\net5.0\Guess_numbers.runtimeconfig.json
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Guess_numbers\Guess_numbers\bin\Debug\net5.0\Guess_numbers.runtimeconfig.dev.json
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Guess_numbers\Guess_numbers\bin\Debug\net5.0\Guess_numbers.dll
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Guess_numbers\Guess_numbers\bin\Debug\net5.0\Guess_numbers.pdb
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Guess_numbers\Guess_numbers\obj\Debug\net5.0\Guess_numbers.csproj.AssemblyReference.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Guess_numbers\Guess_numbers\obj\Debug\net5.0\Guess_numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Guess_numbers\Guess_numbers\obj\Debug\net5.0\Guess_numbers.AssemblyInfoInputs.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Guess_numbers\Guess_numbers\obj\Debug\net5.0\Guess_numbers.AssemblyInfo.cs
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Guess_numbers\Guess_numbers\obj\Debug\net5.0\Guess_numbers.csproj.CoreCompileInputs.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Guess_numbers\Guess_numbers\obj\Debug\net5.0\Guess_numbers.dll
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Guess_numbers\Guess_numbers\obj\Debug\net5.0\refint\Guess_numbers.dll
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Guess_numbers\Guess_numbers\obj\Debug\net5.0\Guess_numbers.pdb
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Guess_numbers\Guess_numbers\obj\Debug\net5.0\Guess_numbers.genruntimeconfig.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Guess_numbers\Guess_numbers\obj\Debug\net5.0\ref\Guess_numbers.dll

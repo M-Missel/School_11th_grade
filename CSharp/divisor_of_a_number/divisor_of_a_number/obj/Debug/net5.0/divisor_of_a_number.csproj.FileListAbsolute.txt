@@ -1,0 +1,16 @@
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\divisor_of_a_number\divisor_of_a_number\bin\Debug\net5.0\divisor_of_a_number.exe
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\divisor_of_a_number\divisor_of_a_number\bin\Debug\net5.0\divisor_of_a_number.deps.json
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\divisor_of_a_number\divisor_of_a_number\bin\Debug\net5.0\divisor_of_a_number.runtimeconfig.json
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\divisor_of_a_number\divisor_of_a_number\bin\Debug\net5.0\divisor_of_a_number.runtimeconfig.dev.json
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\divisor_of_a_number\divisor_of_a_number\bin\Debug\net5.0\divisor_of_a_number.dll
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\divisor_of_a_number\divisor_of_a_number\bin\Debug\net5.0\divisor_of_a_number.pdb
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\divisor_of_a_number\divisor_of_a_number\obj\Debug\net5.0\divisor_of_a_number.csproj.AssemblyReference.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\divisor_of_a_number\divisor_of_a_number\obj\Debug\net5.0\divisor_of_a_number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\divisor_of_a_number\divisor_of_a_number\obj\Debug\net5.0\divisor_of_a_number.AssemblyInfoInputs.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\divisor_of_a_number\divisor_of_a_number\obj\Debug\net5.0\divisor_of_a_number.AssemblyInfo.cs
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\divisor_of_a_number\divisor_of_a_number\obj\Debug\net5.0\divisor_of_a_number.csproj.CoreCompileInputs.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\divisor_of_a_number\divisor_of_a_number\obj\Debug\net5.0\divisor_of_a_number.dll
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\divisor_of_a_number\divisor_of_a_number\obj\Debug\net5.0\refint\divisor_of_a_number.dll
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\divisor_of_a_number\divisor_of_a_number\obj\Debug\net5.0\divisor_of_a_number.pdb
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\divisor_of_a_number\divisor_of_a_number\obj\Debug\net5.0\divisor_of_a_number.genruntimeconfig.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\divisor_of_a_number\divisor_of_a_number\obj\Debug\net5.0\ref\divisor_of_a_number.dll
