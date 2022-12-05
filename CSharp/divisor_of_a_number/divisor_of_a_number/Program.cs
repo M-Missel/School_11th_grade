@@ -23,24 +23,13 @@ namespace divisor_of_a_number
                     {
                         iCount++;
                         Console.WriteLine("The {0} divisor of {1} is: {2}", iCount, iInput, i);
-                    }
+                    } 
                 }
 
-                if (iCount == 2)
-                {
-                    Console.WriteLine("The entered number is a prime number and divisible only by 1 and itself\n");
-                }
+                Console.WriteLine(_ = (iCount == 2) ? "The entered number is a prime number and divisible only by 1 and itself\n" : "");
 
                 Console.Write("Should the program be run again? (j/n): ");
-
-                try
-                {
-                    sControl = Convert.ToChar(Console.ReadLine());
-                }
-                catch
-                {
-
-                }
+                sControl = Convert.ToChar(Console.ReadLine());
             }
 
             Console.WriteLine("Thank you for the usage of this Program");

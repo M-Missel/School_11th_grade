@@ -1,0 +1,11 @@
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\First_Forms_App\First_Forms_App\bin\Debug\First_Forms_App.exe.config
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\First_Forms_App\First_Forms_App\bin\Debug\First_Forms_App.exe
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\First_Forms_App\First_Forms_App\bin\Debug\First_Forms_App.pdb
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\First_Forms_App\First_Forms_App\obj\Debug\First_Forms_App.csproj.AssemblyReference.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\First_Forms_App\First_Forms_App\obj\Debug\First_Forms_App.csproj.SuggestedBindingRedirects.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\First_Forms_App\First_Forms_App\obj\Debug\First_Forms_App.Form1.resources
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\First_Forms_App\First_Forms_App\obj\Debug\First_Forms_App.Properties.Resources.resources
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\First_Forms_App\First_Forms_App\obj\Debug\First_Forms_App.csproj.GenerateResource.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\First_Forms_App\First_Forms_App\obj\Debug\First_Forms_App.csproj.CoreCompileInputs.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\First_Forms_App\First_Forms_App\obj\Debug\First_Forms_App.exe
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\First_Forms_App\First_Forms_App\obj\Debug\First_Forms_App.pdb

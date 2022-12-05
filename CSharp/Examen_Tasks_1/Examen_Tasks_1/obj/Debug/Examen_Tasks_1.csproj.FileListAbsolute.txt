@@ -1,0 +1,8 @@
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Examen_Tasks_1\Examen_Tasks_1\obj\Debug\Examen_Tasks_1.csproj.AssemblyReference.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Examen_Tasks_1\Examen_Tasks_1\obj\Debug\Examen_Tasks_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Examen_Tasks_1\Examen_Tasks_1\obj\Debug\Examen_Tasks_1.csproj.CoreCompileInputs.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Examen_Tasks_1\Examen_Tasks_1\bin\Debug\Examen_Tasks_1.exe.config
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Examen_Tasks_1\Examen_Tasks_1\bin\Debug\Examen_Tasks_1.exe
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Examen_Tasks_1\Examen_Tasks_1\bin\Debug\Examen_Tasks_1.pdb
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Examen_Tasks_1\Examen_Tasks_1\obj\Debug\Examen_Tasks_1.exe
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Examen_Tasks_1\Examen_Tasks_1\obj\Debug\Examen_Tasks_1.pdb
