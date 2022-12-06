@@ -1,0 +1,11 @@
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\AIT_Forms_Task_4\AIT_Forms_Task_4\bin\Debug\AIT_Forms_Task_4.exe.config
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\AIT_Forms_Task_4\AIT_Forms_Task_4\bin\Debug\AIT_Forms_Task_4.exe
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\AIT_Forms_Task_4\AIT_Forms_Task_4\bin\Debug\AIT_Forms_Task_4.pdb
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\AIT_Forms_Task_4\AIT_Forms_Task_4\obj\Debug\AIT_Forms_Task_4.csproj.AssemblyReference.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\AIT_Forms_Task_4\AIT_Forms_Task_4\obj\Debug\AIT_Forms_Task_4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\AIT_Forms_Task_4\AIT_Forms_Task_4\obj\Debug\AIT_Forms_Task_4.Form1.resources
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\AIT_Forms_Task_4\AIT_Forms_Task_4\obj\Debug\AIT_Forms_Task_4.Properties.Resources.resources
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\AIT_Forms_Task_4\AIT_Forms_Task_4\obj\Debug\AIT_Forms_Task_4.csproj.GenerateResource.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\AIT_Forms_Task_4\AIT_Forms_Task_4\obj\Debug\AIT_Forms_Task_4.csproj.CoreCompileInputs.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\AIT_Forms_Task_4\AIT_Forms_Task_4\obj\Debug\AIT_Forms_Task_4.exe
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\AIT_Forms_Task_4\AIT_Forms_Task_4\obj\Debug\AIT_Forms_Task_4.pdb
