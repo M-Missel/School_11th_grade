@@ -20,20 +20,10 @@ namespace AIT_Forms_Task_6
         private void ChangeColor(object sender, EventArgs e)
         {
             int Red = 0, Green = 0, Blue = 0;
-
-            if (T_EditRed.Text.ToLower() == "ff")
-            {
-                Red = Convert.ToInt32(T_EditRed.Text, 16);
-            }
-            if (T_EditGreen.Text.ToLower() == "ff")
-            {
-                Green = Convert.ToInt32(T_EditGreen.Text, 16);
-            }
-            if (T_EditBlue.Text.ToLower() == "ff")
-            {
-                Blue = Convert.ToInt32(T_EditBlue.Text, 16);
-            }
-
+            
+            Red = (T_EditRed.Text.ToLower() == "ff") ? Convert.ToInt32(T_EditRed.Text, 16) : 0 ;
+            Green = (T_EditGreen.Text.ToLower() == "ff") ? Convert.ToInt32(T_EditGreen.Text, 16) : 0;
+            Blue = (T_EditBlue.Text.ToLower() == "ff") ? Convert.ToInt32(T_EditBlue.Text, 16) : 0;
             BackColor = Color.FromArgb(Red, Green, Blue);
         }
 
