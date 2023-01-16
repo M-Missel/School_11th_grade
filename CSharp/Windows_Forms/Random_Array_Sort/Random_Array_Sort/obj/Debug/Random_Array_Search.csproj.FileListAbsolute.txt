@@ -1,0 +1,11 @@
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\Random_Array_Sort\Random_Array_Sort\bin\Debug\Random_Array_Sort.exe.config
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\Random_Array_Sort\Random_Array_Sort\bin\Debug\Random_Array_Sort.exe
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\Random_Array_Sort\Random_Array_Sort\bin\Debug\Random_Array_Sort.pdb
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\Random_Array_Sort\Random_Array_Sort\obj\Debug\Random_Array_Search.csproj.AssemblyReference.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\Random_Array_Sort\Random_Array_Sort\obj\Debug\Random_Array_Search.csproj.SuggestedBindingRedirects.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\Random_Array_Sort\Random_Array_Sort\obj\Debug\Random_Array_Sort.Form1.resources
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\Random_Array_Sort\Random_Array_Sort\obj\Debug\Random_Array_Sort.Properties.Resources.resources
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\Random_Array_Sort\Random_Array_Sort\obj\Debug\Random_Array_Search.csproj.GenerateResource.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\Random_Array_Sort\Random_Array_Sort\obj\Debug\Random_Array_Search.csproj.CoreCompileInputs.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\Random_Array_Sort\Random_Array_Sort\obj\Debug\Random_Array_Sort.exe
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\Random_Array_Sort\Random_Array_Sort\obj\Debug\Random_Array_Sort.pdb

@@ -1,0 +1,4 @@
+﻿  Math_Task.cpp
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\C++\Basic_Stuff\Math_Task\Math_Task\Math_Task.cpp(21,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\C++\Basic_Stuff\Math_Task\Math_Task\Math_Task.cpp(24,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Math_Task.vcxproj -> C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\C++\Basic_Stuff\Math_Task\x64\Debug\Math_Task.exe

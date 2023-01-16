@@ -1,0 +1,11 @@
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\AIT_Forms_Arrays_LBs\AIT_Forms_Arrays_LBs\bin\Debug\AIT_Forms_Arrays_LBs.exe.config
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\AIT_Forms_Arrays_LBs\AIT_Forms_Arrays_LBs\bin\Debug\AIT_Forms_Arrays_LBs.exe
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\AIT_Forms_Arrays_LBs\AIT_Forms_Arrays_LBs\bin\Debug\AIT_Forms_Arrays_LBs.pdb
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\AIT_Forms_Arrays_LBs\AIT_Forms_Arrays_LBs\obj\Debug\AIT_Forms_Arrays_LBs.csproj.AssemblyReference.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\AIT_Forms_Arrays_LBs\AIT_Forms_Arrays_LBs\obj\Debug\AIT_Forms_Arrays_LBs.csproj.SuggestedBindingRedirects.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\AIT_Forms_Arrays_LBs\AIT_Forms_Arrays_LBs\obj\Debug\AIT_Forms_Arrays_LBs.Properties.Resources.resources
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\AIT_Forms_Arrays_LBs\AIT_Forms_Arrays_LBs\obj\Debug\AIT_Forms_Arrays_LBs.csproj.GenerateResource.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\AIT_Forms_Arrays_LBs\AIT_Forms_Arrays_LBs\obj\Debug\AIT_Forms_Arrays_LBs.csproj.CoreCompileInputs.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\AIT_Forms_Arrays_LBs\AIT_Forms_Arrays_LBs\obj\Debug\AIT_Forms_Arrays_LBs.exe
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\AIT_Forms_Arrays_LBs\AIT_Forms_Arrays_LBs\obj\Debug\AIT_Forms_Arrays_LBs.pdb
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\AIT_Forms_Arrays_LBs\AIT_Forms_Arrays_LBs\obj\Debug\AIT_Forms_Arrays_LBs.Form1.resources

@@ -1,0 +1,16 @@
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Basic_Stuff\Array_2D_Initialize\Array_2D_Initialize\bin\Debug\net5.0\Array_2D_Initialize.exe
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Basic_Stuff\Array_2D_Initialize\Array_2D_Initialize\bin\Debug\net5.0\Array_2D_Initialize.deps.json
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Basic_Stuff\Array_2D_Initialize\Array_2D_Initialize\bin\Debug\net5.0\Array_2D_Initialize.runtimeconfig.json
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Basic_Stuff\Array_2D_Initialize\Array_2D_Initialize\bin\Debug\net5.0\Array_2D_Initialize.runtimeconfig.dev.json
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Basic_Stuff\Array_2D_Initialize\Array_2D_Initialize\bin\Debug\net5.0\Array_2D_Initialize.dll
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Basic_Stuff\Array_2D_Initialize\Array_2D_Initialize\bin\Debug\net5.0\Array_2D_Initialize.pdb
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Basic_Stuff\Array_2D_Initialize\Array_2D_Initialize\obj\Debug\net5.0\Array_2D_Initialize.csproj.AssemblyReference.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Basic_Stuff\Array_2D_Initialize\Array_2D_Initialize\obj\Debug\net5.0\Array_2D_Initialize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Basic_Stuff\Array_2D_Initialize\Array_2D_Initialize\obj\Debug\net5.0\Array_2D_Initialize.AssemblyInfoInputs.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Basic_Stuff\Array_2D_Initialize\Array_2D_Initialize\obj\Debug\net5.0\Array_2D_Initialize.AssemblyInfo.cs
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Basic_Stuff\Array_2D_Initialize\Array_2D_Initialize\obj\Debug\net5.0\Array_2D_Initialize.csproj.CoreCompileInputs.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Basic_Stuff\Array_2D_Initialize\Array_2D_Initialize\obj\Debug\net5.0\Array_2D_Initialize.dll
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Basic_Stuff\Array_2D_Initialize\Array_2D_Initialize\obj\Debug\net5.0\refint\Array_2D_Initialize.dll
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Basic_Stuff\Array_2D_Initialize\Array_2D_Initialize\obj\Debug\net5.0\Array_2D_Initialize.pdb
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Basic_Stuff\Array_2D_Initialize\Array_2D_Initialize\obj\Debug\net5.0\Array_2D_Initialize.genruntimeconfig.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Basic_Stuff\Array_2D_Initialize\Array_2D_Initialize\obj\Debug\net5.0\ref\Array_2D_Initialize.dll

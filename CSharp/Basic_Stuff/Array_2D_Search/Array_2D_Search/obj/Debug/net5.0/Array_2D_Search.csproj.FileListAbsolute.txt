@@ -1,0 +1,16 @@
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Basic_Stuff\Array_2D_Search\Array_2D_Search\bin\Debug\net5.0\Array_2D_Search.exe
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Basic_Stuff\Array_2D_Search\Array_2D_Search\bin\Debug\net5.0\Array_2D_Search.deps.json
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Basic_Stuff\Array_2D_Search\Array_2D_Search\bin\Debug\net5.0\Array_2D_Search.runtimeconfig.json
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Basic_Stuff\Array_2D_Search\Array_2D_Search\bin\Debug\net5.0\Array_2D_Search.runtimeconfig.dev.json
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Basic_Stuff\Array_2D_Search\Array_2D_Search\bin\Debug\net5.0\Array_2D_Search.dll
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Basic_Stuff\Array_2D_Search\Array_2D_Search\bin\Debug\net5.0\Array_2D_Search.pdb
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Basic_Stuff\Array_2D_Search\Array_2D_Search\obj\Debug\net5.0\Array_2D_Search.csproj.AssemblyReference.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Basic_Stuff\Array_2D_Search\Array_2D_Search\obj\Debug\net5.0\Array_2D_Search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Basic_Stuff\Array_2D_Search\Array_2D_Search\obj\Debug\net5.0\Array_2D_Search.AssemblyInfoInputs.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Basic_Stuff\Array_2D_Search\Array_2D_Search\obj\Debug\net5.0\Array_2D_Search.AssemblyInfo.cs
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Basic_Stuff\Array_2D_Search\Array_2D_Search\obj\Debug\net5.0\Array_2D_Search.csproj.CoreCompileInputs.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Basic_Stuff\Array_2D_Search\Array_2D_Search\obj\Debug\net5.0\Array_2D_Search.dll
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Basic_Stuff\Array_2D_Search\Array_2D_Search\obj\Debug\net5.0\refint\Array_2D_Search.dll
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Basic_Stuff\Array_2D_Search\Array_2D_Search\obj\Debug\net5.0\Array_2D_Search.pdb
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Basic_Stuff\Array_2D_Search\Array_2D_Search\obj\Debug\net5.0\Array_2D_Search.genruntimeconfig.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Basic_Stuff\Array_2D_Search\Array_2D_Search\obj\Debug\net5.0\ref\Array_2D_Search.dll

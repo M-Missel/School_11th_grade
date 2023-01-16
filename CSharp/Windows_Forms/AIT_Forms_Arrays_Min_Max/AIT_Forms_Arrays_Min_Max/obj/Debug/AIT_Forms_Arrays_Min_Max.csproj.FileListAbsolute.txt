@@ -1,0 +1,11 @@
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\AIT_Forms_Arrays_Min_Max\AIT_Forms_Arrays_Min_Max\bin\Debug\AIT_Forms_Arrays_Min_Max.exe.config
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\AIT_Forms_Arrays_Min_Max\AIT_Forms_Arrays_Min_Max\bin\Debug\AIT_Forms_Arrays_Min_Max.exe
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\AIT_Forms_Arrays_Min_Max\AIT_Forms_Arrays_Min_Max\bin\Debug\AIT_Forms_Arrays_Min_Max.pdb
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\AIT_Forms_Arrays_Min_Max\AIT_Forms_Arrays_Min_Max\obj\Debug\AIT_Forms_Arrays_Min_Max.csproj.AssemblyReference.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\AIT_Forms_Arrays_Min_Max\AIT_Forms_Arrays_Min_Max\obj\Debug\AIT_Forms_Arrays_Min_Max.csproj.SuggestedBindingRedirects.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\AIT_Forms_Arrays_Min_Max\AIT_Forms_Arrays_Min_Max\obj\Debug\AIT_Forms_Arrays_Min_Max.Form1.resources
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\AIT_Forms_Arrays_Min_Max\AIT_Forms_Arrays_Min_Max\obj\Debug\AIT_Forms_Arrays_Min_Max.Properties.Resources.resources
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\AIT_Forms_Arrays_Min_Max\AIT_Forms_Arrays_Min_Max\obj\Debug\AIT_Forms_Arrays_Min_Max.csproj.GenerateResource.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\AIT_Forms_Arrays_Min_Max\AIT_Forms_Arrays_Min_Max\obj\Debug\AIT_Forms_Arrays_Min_Max.csproj.CoreCompileInputs.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\AIT_Forms_Arrays_Min_Max\AIT_Forms_Arrays_Min_Max\obj\Debug\AIT_Forms_Arrays_Min_Max.exe
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\AIT_Forms_Arrays_Min_Max\AIT_Forms_Arrays_Min_Max\obj\Debug\AIT_Forms_Arrays_Min_Max.pdb
