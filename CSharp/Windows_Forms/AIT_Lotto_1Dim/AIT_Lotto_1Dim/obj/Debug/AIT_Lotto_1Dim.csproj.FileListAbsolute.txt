@@ -1,0 +1,11 @@
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\AIT_Lotto_1Dim\AIT_Lotto_1Dim\obj\Debug\AIT_Lotto_1Dim.csproj.AssemblyReference.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\AIT_Lotto_1Dim\AIT_Lotto_1Dim\obj\Debug\AIT_Lotto_1Dim.csproj.SuggestedBindingRedirects.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\AIT_Lotto_1Dim\AIT_Lotto_1Dim\obj\Debug\AIT_Lotto_1Dim.Form1.resources
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\AIT_Lotto_1Dim\AIT_Lotto_1Dim\obj\Debug\AIT_Lotto_1Dim.Properties.Resources.resources
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\AIT_Lotto_1Dim\AIT_Lotto_1Dim\obj\Debug\AIT_Lotto_1Dim.csproj.GenerateResource.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\AIT_Lotto_1Dim\AIT_Lotto_1Dim\obj\Debug\AIT_Lotto_1Dim.csproj.CoreCompileInputs.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\AIT_Lotto_1Dim\AIT_Lotto_1Dim\bin\Debug\AIT_Lotto_1Dim.exe.config
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\AIT_Lotto_1Dim\AIT_Lotto_1Dim\bin\Debug\AIT_Lotto_1Dim.exe
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\AIT_Lotto_1Dim\AIT_Lotto_1Dim\bin\Debug\AIT_Lotto_1Dim.pdb
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\AIT_Lotto_1Dim\AIT_Lotto_1Dim\obj\Debug\AIT_Lotto_1Dim.exe
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\AIT_Lotto_1Dim\AIT_Lotto_1Dim\obj\Debug\AIT_Lotto_1Dim.pdb

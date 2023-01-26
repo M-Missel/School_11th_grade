@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIT_Lotto_2DIM", "AIT_Lotto_2DIM\AIT_Lotto_2DIM.csproj", "{3428A30C-5745-42CD-8698-397DC9096446}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3428A30C-5745-42CD-8698-397DC9096446}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3428A30C-5745-42CD-8698-397DC9096446}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3428A30C-5745-42CD-8698-397DC9096446}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3428A30C-5745-42CD-8698-397DC9096446}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D86438D-74B6-423C-9A9C-E0FF86255998}
+	EndGlobalSection
+EndGlobal
