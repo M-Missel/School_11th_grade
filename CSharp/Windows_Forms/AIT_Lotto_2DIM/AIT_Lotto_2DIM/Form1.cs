@@ -26,12 +26,12 @@ namespace AIT_Lotto_2DIM
 
         public void btn_input_numbers(object sender, EventArgs e)
         {
-            lotto = testfiels(lotto);
+            lotto = testfields(lotto);
         }
 
         public void btn_output_number(object sender, EventArgs e)
         {
-            outputStringGrid();
+            outputStringGrid(lotto);
         }
 
         public void btn_lotto_number(object sender, EventArgs e)
@@ -43,6 +43,7 @@ namespace AIT_Lotto_2DIM
         {
             ints = init_array(ints);
             ints = addLottoNumbers(ints);
+            outputStringGrid(ints);
             outputLottoNumbers(ints);
         }
 
@@ -59,7 +60,7 @@ namespace AIT_Lotto_2DIM
             return array;
         }
 
-        private int[,] testfiels(int[,] array)
+        private int[,] testfields(int[,] array)
         {
             array[0, 0] = -1;
             array[1, 1] = -1;
@@ -71,13 +72,13 @@ namespace AIT_Lotto_2DIM
             return array;
         }
 
-        private void outputStringGrid()
+        private void outputStringGrid(int[,] array)
         {
-            for (int i = 0; i < lotto.GetLength(0); i++)
+            for (int i = 0; i < array.GetLength(0); i++)
             {
-                for (int k = 0; k < lotto.GetLength(1); k++)
+                for (int k = 0; k < array.GetLength(1); k++)
                 {
-                    if (lotto[k,i] != -1)
+                    if (array[k,i] != -1)
                     {
                         ST_OUTPUT[k, i] = calcCell(i, k).ToString();
                     }
@@ -111,8 +112,8 @@ namespace AIT_Lotto_2DIM
             
             while (count < 6)
             {
-                xValue = random.Next(0, 6);
-                yValue = random.Next(0, 6);
+                xValue = random.Next(0, array.GetLength(0));
+                yValue = random.Next(0, array.GetLength(1));
 
                 if (array[yValue,xValue] == 1)
                 {
