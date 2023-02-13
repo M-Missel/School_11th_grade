@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIT_Forms_Methods", "AIT_Forms_Methods\AIT_Forms_Methods.csproj", "{BA0D4CDA-B7CA-4873-9A06-7396849531CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA0D4CDA-B7CA-4873-9A06-7396849531CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA0D4CDA-B7CA-4873-9A06-7396849531CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA0D4CDA-B7CA-4873-9A06-7396849531CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA0D4CDA-B7CA-4873-9A06-7396849531CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECDA283F-8B42-4DB1-A72E-B20BA22550E3}
+	EndGlobalSection
+EndGlobal
