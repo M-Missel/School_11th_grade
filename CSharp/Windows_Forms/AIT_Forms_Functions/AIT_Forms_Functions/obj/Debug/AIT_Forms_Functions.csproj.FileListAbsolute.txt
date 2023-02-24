@@ -1,0 +1,11 @@
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\AIT_Forms_Functions\AIT_Forms_Functions\bin\Debug\AIT_Forms_Functions.exe.config
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\AIT_Forms_Functions\AIT_Forms_Functions\bin\Debug\AIT_Forms_Functions.exe
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\AIT_Forms_Functions\AIT_Forms_Functions\bin\Debug\AIT_Forms_Functions.pdb
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\AIT_Forms_Functions\AIT_Forms_Functions\obj\Debug\AIT_Forms_Functions.csproj.AssemblyReference.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\AIT_Forms_Functions\AIT_Forms_Functions\obj\Debug\AIT_Forms_Functions.csproj.SuggestedBindingRedirects.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\AIT_Forms_Functions\AIT_Forms_Functions\obj\Debug\AIT_Forms_Functions.Form1.resources
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\AIT_Forms_Functions\AIT_Forms_Functions\obj\Debug\AIT_Forms_Functions.Properties.Resources.resources
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\AIT_Forms_Functions\AIT_Forms_Functions\obj\Debug\AIT_Forms_Functions.csproj.GenerateResource.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\AIT_Forms_Functions\AIT_Forms_Functions\obj\Debug\AIT_Forms_Functions.csproj.CoreCompileInputs.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\AIT_Forms_Functions\AIT_Forms_Functions\obj\Debug\AIT_Forms_Functions.exe
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\AIT_Forms_Functions\AIT_Forms_Functions\obj\Debug\AIT_Forms_Functions.pdb
