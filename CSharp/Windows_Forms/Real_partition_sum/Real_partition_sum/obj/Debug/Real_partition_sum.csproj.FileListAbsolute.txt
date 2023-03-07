@@ -1,0 +1,11 @@
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\Real_partition_sum\Real_partition_sum\bin\Debug\Real_partition_sum.exe.config
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\Real_partition_sum\Real_partition_sum\bin\Debug\Real_partition_sum.exe
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\Real_partition_sum\Real_partition_sum\bin\Debug\Real_partition_sum.pdb
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\Real_partition_sum\Real_partition_sum\obj\Debug\Real_partition_sum.csproj.AssemblyReference.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\Real_partition_sum\Real_partition_sum\obj\Debug\Real_partition_sum.csproj.SuggestedBindingRedirects.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\Real_partition_sum\Real_partition_sum\obj\Debug\Real_partition_sum.Form1.resources
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\Real_partition_sum\Real_partition_sum\obj\Debug\Real_partition_sum.Properties.Resources.resources
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\Real_partition_sum\Real_partition_sum\obj\Debug\Real_partition_sum.csproj.GenerateResource.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\Real_partition_sum\Real_partition_sum\obj\Debug\Real_partition_sum.csproj.CoreCompileInputs.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\Real_partition_sum\Real_partition_sum\obj\Debug\Real_partition_sum.exe
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\Real_partition_sum\Real_partition_sum\obj\Debug\Real_partition_sum.pdb
