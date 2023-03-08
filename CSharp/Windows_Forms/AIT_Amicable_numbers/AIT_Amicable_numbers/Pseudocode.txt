@@ -1,0 +1,24 @@
+﻿OPERATION amicable_numbers (zahl : GZ)
+	GZ ets1 <- 0
+	GZ ets2 <- 0
+	
+	FÜR i <- 2 BIS zahl SCHRITT 1
+		ets1 <- berechne_ets(i)
+		ets2 <- berechne_ets(ets1)
+		WENN i = ets2  UND ets1 != ets2
+			Ausgabe TextBox_Freunde
+		WENN ENDE
+		
+		WENN ets1 == ets2
+			Ausgabe TextBox_Perfekt
+		WENN ENDE
+	FÜR ENDE
+
+OPERATION berechne_ets (zahl : GZ) : GZ
+	GZ Ausgabe <- 0
+	
+	FÜR i <- 1 BIS zahl SCHRITT 1
+		WENN zahl & i = 0
+			Ausgabe <- Ausgabe + i
+		WENN ENDE
+RÜCKGABE Ausgabe

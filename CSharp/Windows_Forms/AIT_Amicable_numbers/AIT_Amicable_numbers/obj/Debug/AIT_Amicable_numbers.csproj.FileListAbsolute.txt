@@ -1,0 +1,11 @@
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\AIT_Amicable_numbers\AIT_Amicable_numbers\bin\Debug\AIT_Amicable_numbers.exe.config
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\AIT_Amicable_numbers\AIT_Amicable_numbers\bin\Debug\AIT_Amicable_numbers.exe
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\AIT_Amicable_numbers\AIT_Amicable_numbers\bin\Debug\AIT_Amicable_numbers.pdb
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\AIT_Amicable_numbers\AIT_Amicable_numbers\obj\Debug\AIT_Amicable_numbers.csproj.AssemblyReference.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\AIT_Amicable_numbers\AIT_Amicable_numbers\obj\Debug\AIT_Amicable_numbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\AIT_Amicable_numbers\AIT_Amicable_numbers\obj\Debug\AIT_Amicable_numbers.Form1.resources
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\AIT_Amicable_numbers\AIT_Amicable_numbers\obj\Debug\AIT_Amicable_numbers.Properties.Resources.resources
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\AIT_Amicable_numbers\AIT_Amicable_numbers\obj\Debug\AIT_Amicable_numbers.csproj.GenerateResource.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\AIT_Amicable_numbers\AIT_Amicable_numbers\obj\Debug\AIT_Amicable_numbers.csproj.CoreCompileInputs.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\AIT_Amicable_numbers\AIT_Amicable_numbers\obj\Debug\AIT_Amicable_numbers.exe
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\AIT_Amicable_numbers\AIT_Amicable_numbers\obj\Debug\AIT_Amicable_numbers.pdb
