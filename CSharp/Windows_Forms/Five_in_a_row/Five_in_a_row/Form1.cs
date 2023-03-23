@@ -77,7 +77,7 @@ namespace Five_in_a_row
             {
                 writeChar(e.ACol, e.ARow, currentPlayer);
                 writeArrayToStringGrid();
-                if (returnMaxValue(e.ACol, e.ARow) >= 5)
+                if (returnMaxValue(e.ACol, e.ARow) == 5)
                 {
                     MessageBox.Show($"The User {currentPlayer} wins the game");
                     SG_Output.Enabled = false;
@@ -85,6 +85,7 @@ namespace Five_in_a_row
                 else
                 {
                     changePlayer();
+                    showPlayer();
                 }
             }
         }
@@ -100,7 +101,11 @@ namespace Five_in_a_row
             for (int i = 1; i < chars.GetLength(1); i++)
             {
                 if (chars[x_pos, i] == currentPlayer)
+                {
                     counter++;
+                    if (counter == 5)
+                        return counter;
+                }
                 else
                     counter = 0;
             }
@@ -114,7 +119,11 @@ namespace Five_in_a_row
             for (int i = 1; i < chars.GetLength(0); i++)
             {
                 if (chars[i, y_pos] == currentPlayer)
+                {
                     counter++;
+                    if (counter == 5)
+                        return counter;
+                }
                 else
                     counter = 0;
             }
@@ -128,16 +137,22 @@ namespace Five_in_a_row
             int temp_y_pos = y_pos -1;
             int counter = 0;
 
-            while (temp_x_pos >= 1 && temp_y_pos >= 1 && chars[temp_x_pos, temp_y_pos] == currentPlayer)
+            while (temp_x_pos >= 1 && temp_y_pos >= 1)
             {
-                counter++;
+                if (chars[temp_x_pos, temp_y_pos] == currentPlayer)
+                {
+                    counter++;
+                }
                 temp_x_pos--;
                 temp_y_pos--;
             }
 
-            while (x_pos <= chars.GetLength(0) -1 && y_pos <= chars.GetLength(1) -1 && chars[x_pos, y_pos] == currentPlayer)
+            while (x_pos <= chars.GetLength(0) -1 && y_pos <= chars.GetLength(1) -1)
             {
-                counter++;
+                if (chars[x_pos, y_pos] == currentPlayer)
+                {
+                    counter++;
+                }
                 x_pos++;
                 y_pos++;
             }
@@ -151,16 +166,22 @@ namespace Five_in_a_row
             int temp_y_pos = y_pos - 1;
             int counter = 0;
 
-            while (temp_x_pos >= 1 && temp_y_pos <= chars.GetLength(1) - 1 && chars[temp_x_pos, temp_y_pos] == currentPlayer)
+            while (temp_x_pos >= 1 && temp_y_pos <= chars.GetLength(1) - 1)
             {
-                counter++;
+                if (chars[temp_x_pos, temp_y_pos] == currentPlayer)
+                {
+                    counter++;
+                }
                 temp_x_pos--;
                 temp_y_pos++;
             }
 
-            while (x_pos <= chars.GetLength(0) - 1 && y_pos >=1 && chars[x_pos, y_pos] == currentPlayer)
+            while (x_pos <= chars.GetLength(0) - 1 && y_pos >=1)
             {
-                counter++;
+                if (chars[x_pos, y_pos] == currentPlayer)
+                {
+                    counter++;
+                }
                 x_pos++;
                 y_pos--;
             }
