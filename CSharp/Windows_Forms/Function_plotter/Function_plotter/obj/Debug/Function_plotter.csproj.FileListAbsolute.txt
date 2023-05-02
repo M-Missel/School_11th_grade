@@ -1,0 +1,11 @@
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\Function_plotter\Function_plotter\obj\Debug\Function_plotter.csproj.AssemblyReference.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\Function_plotter\Function_plotter\obj\Debug\Function_plotter.csproj.SuggestedBindingRedirects.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\Function_plotter\Function_plotter\obj\Debug\Function_plotter.Form1.resources
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\Function_plotter\Function_plotter\obj\Debug\Function_plotter.Properties.Resources.resources
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\Function_plotter\Function_plotter\obj\Debug\Function_plotter.csproj.GenerateResource.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\Function_plotter\Function_plotter\obj\Debug\Function_plotter.csproj.CoreCompileInputs.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\Function_plotter\Function_plotter\bin\Debug\Function_plotter.exe.config
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\Function_plotter\Function_plotter\bin\Debug\Function_plotter.exe
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\Function_plotter\Function_plotter\bin\Debug\Function_plotter.pdb
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\Function_plotter\Function_plotter\obj\Debug\Function_plotter.exe
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\Function_plotter\Function_plotter\obj\Debug\Function_plotter.pdb
