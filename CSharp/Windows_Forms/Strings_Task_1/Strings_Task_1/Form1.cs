@@ -16,5 +16,18 @@ namespace Strings_Task_1
         {
             InitializeComponent();
         }
+
+        public void BTN_ASCII_Click(object sender, EventArgs e)
+        {
+            TB_Output.Text = convertStringToHex(TB_Input.Text);
+        }
+
+        private string convertStringToHex(string input)
+        {
+            byte[] bytes = Encoding.Default.GetBytes(input);
+            string output = BitConverter.ToString(bytes);
+
+            return output;
+        }
     }
 }

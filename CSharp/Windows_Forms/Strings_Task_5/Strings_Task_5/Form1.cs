@@ -29,8 +29,9 @@ namespace Strings_Task_5
             {
                 certainCharacter = countOccurrenceCharacters(TB_Input.Text, Convert.ToChar(TB_Input_Character.Text));
                 totalCharacter = determineNumberCharacters(TB_Input.Text);
-                g.FillRectangle(Brushes.Red, 0, 50, 30, 0);
-                L_Number_Vowels.Text = $"{totalCharacter}";
+                g.FillRectangle(Brushes.Red, 0, 100 - frequency(), 30, 100);
+                L_Number_Vowels.Text = $"{totalCharacter} Letters in total";
+                L_Output_Vowel_Status.Text = $"{frequency()}% Frequency of the Letter {TB_Input_Character.Text}";
             }
                 
         }
@@ -38,15 +39,15 @@ namespace Strings_Task_5
         private int countVowels(string Input)
         {
             Input = Input.ToLower();
-            int Output = 0;
+            int output = 0;
 
             for (int i = 0; i < Input.Length; i++)
             {
                 if (Input[i] == 0x61 || Input[i] == 0x65 || Input[i] == 0x69 || Input[i] == 0x6F || Input[i] == 0x75)
-                    Output++;
+                    output++;
             }
 
-            return Output;
+            return output;
         }
 
         private int countOccurrenceCharacters(string Input, char Character)
@@ -69,7 +70,7 @@ namespace Strings_Task_5
 
             for (int i = 0; i < Input.Length; i++)
             {
-                if (Input[i] > 'a' && Input[i] < 'z')
+                if (Input[i] >= 'a' && Input[i] <= 'z')
                     output++;
             }
 
@@ -78,7 +79,7 @@ namespace Strings_Task_5
 
         private float frequency()
         {
-            return certainCharacter / totalCharacter;
+            return (float)certainCharacter / (float)totalCharacter * 100;
         }
     }
 }
