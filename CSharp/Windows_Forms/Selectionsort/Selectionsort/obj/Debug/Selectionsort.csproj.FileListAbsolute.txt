@@ -1,0 +1,11 @@
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\Selectionsort\Selectionsort\bin\Debug\Selectionsort.exe.config
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\Selectionsort\Selectionsort\bin\Debug\Selectionsort.exe
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\Selectionsort\Selectionsort\bin\Debug\Selectionsort.pdb
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\Selectionsort\Selectionsort\obj\Debug\Selectionsort.csproj.AssemblyReference.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\Selectionsort\Selectionsort\obj\Debug\Selectionsort.csproj.SuggestedBindingRedirects.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\Selectionsort\Selectionsort\obj\Debug\Selectionsort.Form1.resources
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\Selectionsort\Selectionsort\obj\Debug\Selectionsort.Properties.Resources.resources
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\Selectionsort\Selectionsort\obj\Debug\Selectionsort.csproj.GenerateResource.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\Selectionsort\Selectionsort\obj\Debug\Selectionsort.csproj.CoreCompileInputs.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\Selectionsort\Selectionsort\obj\Debug\Selectionsort.exe
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\Selectionsort\Selectionsort\obj\Debug\Selectionsort.pdb
