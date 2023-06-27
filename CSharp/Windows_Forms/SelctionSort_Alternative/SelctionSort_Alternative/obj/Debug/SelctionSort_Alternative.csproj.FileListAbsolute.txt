@@ -1,0 +1,10 @@
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\SelctionSort_Alternative\SelctionSort_Alternative\bin\Debug\SelctionSort_Alternative.exe.config
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\SelctionSort_Alternative\SelctionSort_Alternative\bin\Debug\SelctionSort_Alternative.exe
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\SelctionSort_Alternative\SelctionSort_Alternative\bin\Debug\SelctionSort_Alternative.pdb
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\SelctionSort_Alternative\SelctionSort_Alternative\obj\Debug\SelctionSort_Alternative.csproj.AssemblyReference.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\SelctionSort_Alternative\SelctionSort_Alternative\obj\Debug\SelctionSort_Alternative.csproj.SuggestedBindingRedirects.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\SelctionSort_Alternative\SelctionSort_Alternative\obj\Debug\SelctionSort_Alternative.Properties.Resources.resources
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\SelctionSort_Alternative\SelctionSort_Alternative\obj\Debug\SelctionSort_Alternative.csproj.GenerateResource.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\SelctionSort_Alternative\SelctionSort_Alternative\obj\Debug\SelctionSort_Alternative.csproj.CoreCompileInputs.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\SelctionSort_Alternative\SelctionSort_Alternative\obj\Debug\SelctionSort_Alternative.exe
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\SelctionSort_Alternative\SelctionSort_Alternative\obj\Debug\SelctionSort_Alternative.pdb

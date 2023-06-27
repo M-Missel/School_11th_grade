@@ -1,0 +1,11 @@
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\Insertionsort\Insertionsort\bin\Debug\Insertionsort.exe.config
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\Insertionsort\Insertionsort\bin\Debug\Insertionsort.exe
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\Insertionsort\Insertionsort\bin\Debug\Insertionsort.pdb
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\Insertionsort\Insertionsort\obj\Debug\Insertionsort.csproj.AssemblyReference.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\Insertionsort\Insertionsort\obj\Debug\Insertionsort.csproj.SuggestedBindingRedirects.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\Insertionsort\Insertionsort\obj\Debug\Insertionsort.Form1.resources
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\Insertionsort\Insertionsort\obj\Debug\Insertionsort.Properties.Resources.resources
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\Insertionsort\Insertionsort\obj\Debug\Insertionsort.csproj.GenerateResource.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\Insertionsort\Insertionsort\obj\Debug\Insertionsort.csproj.CoreCompileInputs.cache
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\Insertionsort\Insertionsort\obj\Debug\Insertionsort.exe
+C:\Users\Xerox\OneDrive\Documents\GitHub\School_11th_grade\CSharp\Windows_Forms\Insertionsort\Insertionsort\obj\Debug\Insertionsort.pdb
